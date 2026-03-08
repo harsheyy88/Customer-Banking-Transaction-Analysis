@@ -24,4 +24,5 @@ The Power BI dashboard visualizes transaction trends, fraud detection, and chann
 - Customer Banking Transaction Analysis.ipynb → Data analysis using Python
 - Customer_Banking_Analysis_PowerBI_Dashboard.pbix → Power BI dashboard
 
-- dashboard_preview.png
+-## Dashboard Preview
+
