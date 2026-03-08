@@ -9,7 +9,7 @@ This project analyzes banking transaction data to identify customer behavior, tr
 - Python
 - Power BI
 - Pandas
-- numpy
+- Numpy
 - Data Visualization
 
 ## Key Insights
